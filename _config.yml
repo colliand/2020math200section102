@@ -1,8 +1,8 @@
 # Book settings
-title: My sample book
-author: The Jupyter Book Community
+title: 2020 MATH 200 Section 102
+author: J. Colliander
 logo: logo.png
 
 latex:
   latex_documents:
-    targetname: book.tex
+    targetname: 2020math200section102.tex

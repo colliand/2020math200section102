@@ -1,5 +1,7 @@
-- file: intro
-- file: content
+- file: course 
+- file: space-vectors
   sections:
     - file: markdown
     - file: notebooks
+- file: partial-derivatives
+- file: multiple-integrals
