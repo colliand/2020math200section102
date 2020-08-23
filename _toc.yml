@@ -1,7 +1,8 @@
 - file: course 
-- file: space-vectors
+- file: content
   sections:
-    - file: markdown
-    - file: notebooks
-- file: partial-derivatives
-- file: multiple-integrals
+    - file: overview
+    - file: space-vectors
+    - file: partial-derivatives
+    - file: multiple-integrals
+- file: resources
