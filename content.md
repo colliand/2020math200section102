@@ -1,4 +1,4 @@
-Content in Jupyter Book
+Course Materials 
 =======================
 
 There are many ways to write content in Jupyter Book. This short section
