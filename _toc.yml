@@ -2,4 +2,7 @@
 - file: content
   sections:
     - file: overview
+    - file: space-vectors
+    - file: partial-derivatives
+    - file: multiple-integrals
 - file: resources
