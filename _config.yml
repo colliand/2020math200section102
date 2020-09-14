@@ -6,4 +6,7 @@ logo: logo.png
 latex:
   latex_documents:
     targetname: 2020math200section102.tex
+launch_buttons:
+  jupyterhub_url: "https://ubc.syzygy.ca"  # The URL for your BinderHub (e.g., https://mybinder.org)
+
 
